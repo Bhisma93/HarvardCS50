@@ -14,3 +14,4 @@ Git Commands
 - Push > Upload Git commits to a remote repo, like Github
 - Pull > Download changes from remote repo into your local machine
 
+Create SSH to push repository to Github repo
